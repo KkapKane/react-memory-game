@@ -1,0 +1,45 @@
+body,html {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+.App {
+    display: flex;
+    
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(118, 144, 146);
+}
+
+.cardContainer{
+    display: flex;
+    height: 100vh;
+    background-color: rgb(118, 144, 146);
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    button {
+        height: 4rem;
+        width: 80%;
+    }
+}
+.Card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    font-size: 2rem;
+    align-items: center;
+    margin: 1rem;
+    border: 2px solid black;
+    height: 250px;
+    width: 250px;
+
+
+}
+
+.scoreBoard{
+    font-size: 2rem;
+    padding: 2rem;
+}
