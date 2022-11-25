@@ -1,11 +1,11 @@
 import React from "react";
 import '../style/style.scss'
 
-function Card({card, picked, handleClick}) {
+function Card({card, handleClick}) {
  return (
     
-    <div className="Card">{card}
-    <button onClick={()=> handleClick(card)}>pick</button>
+    <div className="Card" onClick={()=> handleClick(card)}>
+    <img src={card} alt="maplestory Monsters"/>
     </div>
     
  )   
