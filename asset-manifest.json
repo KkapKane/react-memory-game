@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.bf119f4b.css",
-    "main.js": "/static/js/main.21256c48.js",
-    "index.html": "/index.html",
-    "main.bf119f4b.css.map": "/static/css/main.bf119f4b.css.map",
-    "main.21256c48.js.map": "/static/js/main.21256c48.js.map"
+    "main.css": "/react-memory-game/static/css/main.bf119f4b.css",
+    "main.js": "/react-memory-game/static/js/main.21256c48.js",
+    "index.html": "/react-memory-game/index.html",
+    "main.bf119f4b.css.map": "/react-memory-game/static/css/main.bf119f4b.css.map",
+    "main.21256c48.js.map": "/react-memory-game/static/js/main.21256c48.js.map"
   },
   "entrypoints": [
     "static/css/main.bf119f4b.css",
